@@ -81,7 +81,7 @@ for (var i in pbp){
   result += pbp[i];
 }
 fs.writeFileSync("output.txt", result);
-
+console.log("Game Simulated. Go to output.txt to see results.");
 function hit(){
   var tempDef = top ? team2Defense : team1Defense;
   defScore = num(1,55) + Math.floor(1.25*tempDef);

@@ -37,19 +37,19 @@ Bottom of the 1
 Atlanta Braves: 0
 Houston Astros: 0
 Event:
-Batter hit, but got out
-===============================
-Bottom of the 1
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 0
-Event:
 Batter Out
 ===============================
 Bottom of the 1
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Batter Out
+===============================
+Bottom of the 1
 3 Outs
 1st Base: Empty
 2nd Base: Empty
@@ -60,7 +60,47 @@ Event:
 Batter Out
 ===============================
 Top of the 2
-0 Outs
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Batter Out
+===============================
+Top of the 2
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Batter hit, but got out
+===============================
+Top of the 2
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Batter Out
+===============================
+Bottom of the 2
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Batter Out
+===============================
+Bottom of the 2
+1 Out
 1st Base: Runner
 2nd Base: Empty
 3rd Base: Empty
@@ -69,17 +109,7 @@ Houston Astros: 0
 Event:
 Single
 ===============================
-Top of the 2
-1 Out
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 0
-Event:
-Batter hit, but got out
-===============================
-Top of the 2
+Bottom of the 2
 2 Outs
 1st Base: Runner
 2nd Base: Empty
@@ -89,132 +119,72 @@ Houston Astros: 0
 Event:
 Batter Out
 ===============================
-Top of the 2
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 2
-Houston Astros: 0
-Event:
-Home Run!
-===============================
-Top of the 2
-3 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 2
-Houston Astros: 0
-Event:
-Batter hit, but got out
-===============================
-Bottom of the 2
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 2
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Bottom of the 2
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 2
-Houston Astros: 0
-Event:
-Double
-===============================
-Bottom of the 2
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 2
-Houston Astros: 0
-Event:
-Batter Out
-===============================
 Bottom of the 2
 3 Outs
-1st Base: Empty
-2nd Base: Runner
+1st Base: Runner
+2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 2
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Top of the 3
-0 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 2
-Houston Astros: 0
-Event:
-Double
-===============================
-Top of the 3
-0 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Double
-===============================
-Top of the 3
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Batter hit, but got out
 ===============================
 Top of the 3
-2 Outs
+1 Out
 1st Base: Empty
-2nd Base: Runner
+2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Batter Out
+===============================
+Top of the 3
+1 Out
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Single
+===============================
+Top of the 3
+2 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Batter Out
 ===============================
 Top of the 3
 3 Outs
-1st Base: Empty
-2nd Base: Runner
+1st Base: Runner
+2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Batter Out
 ===============================
 Bottom of the 3
-0 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Double
-===============================
-Bottom of the 3
 1 Out
 1st Base: Empty
-2nd Base: Runner
+2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
+Houston Astros: 0
+Event:
+Batter Out
+===============================
+Bottom of the 3
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Batter Out
@@ -224,17 +194,17 @@ Bottom of the 3
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
-Batter Out
+Double
 ===============================
 Bottom of the 3
 3 Outs
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Batter Out
@@ -244,17 +214,17 @@ Top of the 4
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
-Batter Out
+Batter hit, but got out
 ===============================
 Top of the 4
 2 Outs
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Batter Out
@@ -264,178 +234,168 @@ Top of the 4
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Bottom of the 4
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Bottom of the 4
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Double
-===============================
-Bottom of the 4
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Bottom of the 4
-2 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Runner
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Single
-===============================
-Bottom of the 4
-3 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Runner
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Batter hit, but got out
 ===============================
-Top of the 5
-0 Outs
-1st Base: Runner
+Bottom of the 4
+1 Out
+1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 3
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
-Single
+Batter Out
 ===============================
-Top of the 5
-0 Outs
+Bottom of the 4
+1 Out
 1st Base: Empty
 2nd Base: Runner
-3rd Base: Runner
-Atlanta Braves: 3
+3rd Base: Empty
+Atlanta Braves: 0
 Houston Astros: 0
 Event:
 Double
 ===============================
-Top of the 5
+Bottom of the 4
 1 Out
 1st Base: Empty
-2nd Base: Runner
-3rd Base: Runner
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Top of the 5
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Runner
-Atlanta Braves: 3
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Top of the 5
-2 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Runner
-Atlanta Braves: 4
-Houston Astros: 0
-Event:
-Single
-===============================
-Top of the 5
-3 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Runner
-Atlanta Braves: 4
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Bottom of the 5
-0 Outs
-1st Base: Runner
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 0
+Atlanta Braves: 0
+Houston Astros: 2
 Event:
-Single
+Home Run!
 ===============================
-Bottom of the 5
+Bottom of the 4
 1 Out
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Bottom of the 5
-2 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 0
-Event:
-Batter Out
-===============================
-Bottom of the 5
-2 Outs
-1st Base: Runner
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 0
-Event:
-Single
-===============================
-Bottom of the 5
-2 Outs
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
+Atlanta Braves: 0
 Houston Astros: 3
 Event:
 Home Run!
 ===============================
+Bottom of the 4
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 3
+Event:
+Batter Out
+===============================
+Bottom of the 4
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 3
+Event:
+Batter Out
+===============================
+Top of the 5
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 3
+Event:
+Batter Out
+===============================
+Top of the 5
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 3
+Event:
+Batter Out
+===============================
+Top of the 5
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 0
+Houston Astros: 3
+Event:
+Double
+===============================
+Top of the 5
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 1
+Houston Astros: 3
+Event:
+Double
+===============================
+Top of the 5
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 3
+Houston Astros: 3
+Event:
+Home Run!
+===============================
+Top of the 5
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 3
+Houston Astros: 3
+Event:
+Batter Out
+===============================
+Bottom of the 5
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 3
+Houston Astros: 3
+Event:
+Double
+===============================
+Bottom of the 5
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 3
+Houston Astros: 3
+Event:
+Batter Out
+===============================
 Bottom of the 5
 2 Outs
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
+Atlanta Braves: 3
 Houston Astros: 3
+Event:
+Batter Out
+===============================
+Bottom of the 5
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
 Double
 ===============================
@@ -444,8 +404,8 @@ Bottom of the 5
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
 Batter Out
 ===============================
@@ -454,8 +414,8 @@ Top of the 6
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
 Batter Out
 ===============================
@@ -464,8 +424,8 @@ Top of the 6
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
 Batter Out
 ===============================
@@ -474,8 +434,8 @@ Top of the 6
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
 Batter hit, but got out
 ===============================
@@ -484,8 +444,8 @@ Bottom of the 6
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
 Batter Out
 ===============================
@@ -494,8 +454,8 @@ Bottom of the 6
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
 Batter Out
 ===============================
@@ -504,10 +464,20 @@ Bottom of the 6
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Atlanta Braves: 3
+Houston Astros: 4
 Event:
-Batter hit, but got out
+Batter Out
+===============================
+Top of the 7
+0 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 4
+Houston Astros: 4
+Event:
+Home Run!
 ===============================
 Top of the 7
 1 Out
@@ -515,9 +485,9 @@ Top of the 7
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 4
-Houston Astros: 3
+Houston Astros: 4
 Event:
-Batter Out
+Batter hit, but got out
 ===============================
 Top of the 7
 2 Outs
@@ -525,9 +495,9 @@ Top of the 7
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 4
-Houston Astros: 3
+Houston Astros: 4
 Event:
-Batter Out
+Batter hit, but got out
 ===============================
 Top of the 7
 2 Outs
@@ -535,7 +505,7 @@ Top of the 7
 2nd Base: Runner
 3rd Base: Empty
 Atlanta Braves: 4
-Houston Astros: 3
+Houston Astros: 4
 Event:
 Double
 ===============================
@@ -545,17 +515,7 @@ Top of the 7
 2nd Base: Runner
 3rd Base: Empty
 Atlanta Braves: 4
-Houston Astros: 3
-Event:
-Batter Out
-===============================
-Bottom of the 7
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 3
+Houston Astros: 4
 Event:
 Batter hit, but got out
 ===============================
@@ -567,55 +527,115 @@ Bottom of the 7
 Atlanta Braves: 4
 Houston Astros: 4
 Event:
-Home Run!
+Batter hit, but got out
 ===============================
 Bottom of the 7
-2 Outs
-1st Base: Empty
+1 Out
+1st Base: Runner
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 4
 Houston Astros: 4
+Event:
+Single
+===============================
+Bottom of the 7
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+Atlanta Braves: 4
+Houston Astros: 4
+Event:
+Double
+===============================
+Bottom of the 7
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 4
+Houston Astros: 6
+Event:
+Double
+===============================
+Bottom of the 7
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 4
+Houston Astros: 6
 Event:
 Batter Out
 ===============================
 Bottom of the 7
 3 Outs
 1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 4
+Houston Astros: 6
+Event:
+Batter Out
+===============================
+Top of the 8
+0 Outs
+1st Base: Runner
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 4
-Houston Astros: 4
+Houston Astros: 6
+Event:
+Single
+===============================
+Top of the 8
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+Atlanta Braves: 4
+Houston Astros: 6
+Event:
+Double
+===============================
+Top of the 8
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+Atlanta Braves: 4
+Houston Astros: 6
 Event:
 Batter Out
 ===============================
 Top of the 8
 1 Out
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
-Batter Out
+Double
 ===============================
 Top of the 8
 2 Outs
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
 Batter Out
 ===============================
 Top of the 8
 3 Outs
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
 Batter Out
 ===============================
@@ -624,18 +644,18 @@ Bottom of the 8
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
-Batter hit, but got out
+Batter Out
 ===============================
 Bottom of the 8
 1 Out
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
 Double
 ===============================
@@ -644,50 +664,30 @@ Bottom of the 8
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
-Batter hit, but got out
+Batter Out
 ===============================
 Bottom of the 8
 3 Outs
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
-Batter hit, but got out
+Batter Out
 ===============================
 Top of the 9
 1 Out
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
+Atlanta Braves: 6
+Houston Astros: 6
 Event:
 Batter Out
-===============================
-Top of the 9
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 4
-Houston Astros: 4
-Event:
-Batter Out
-===============================
-Top of the 9
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 5
-Houston Astros: 4
-Event:
-Home Run!
 ===============================
 Top of the 9
 2 Outs
@@ -695,9 +695,9 @@ Top of the 9
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 6
-Houston Astros: 4
+Houston Astros: 6
 Event:
-Home Run!
+Batter hit, but got out
 ===============================
 Top of the 9
 3 Outs
@@ -705,7 +705,7 @@ Top of the 9
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 6
-Houston Astros: 4
+Houston Astros: 6
 Event:
 Batter hit, but got out
 ===============================
@@ -715,7 +715,7 @@ Bottom of the 9
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 6
-Houston Astros: 4
+Houston Astros: 6
 Event:
 Batter Out
 ===============================
@@ -725,7 +725,7 @@ Bottom of the 9
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 6
-Houston Astros: 4
+Houston Astros: 6
 Event:
 Batter hit, but got out
 ===============================
@@ -735,6 +735,336 @@ Bottom of the 9
 2nd Base: Empty
 3rd Base: Empty
 Atlanta Braves: 6
-Houston Astros: 4
+Houston Astros: 6
 Event:
 Batter Out
+===============================
+Top of the 10
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 6
+Houston Astros: 6
+Event:
+Double
+===============================
+Top of the 10
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 6
+Houston Astros: 6
+Event:
+Batter hit, but got out
+===============================
+Top of the 10
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 6
+Houston Astros: 6
+Event:
+Batter Out
+===============================
+Top of the 10
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 6
+Event:
+Double
+===============================
+Top of the 10
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 6
+Event:
+Batter Out
+===============================
+Bottom of the 10
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 6
+Event:
+Batter Out
+===============================
+Bottom of the 10
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 6
+Event:
+Double
+===============================
+Bottom of the 10
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 6
+Event:
+Batter Out
+===============================
+Bottom of the 10
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Double
+===============================
+Bottom of the 10
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 11
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter hit, but got out
+===============================
+Top of the 11
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 11
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Bottom of the 11
+0 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Single
+===============================
+Bottom of the 11
+1 Out
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Bottom of the 11
+1 Out
+1st Base: Runner
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Single
+===============================
+Bottom of the 11
+2 Outs
+1st Base: Runner
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Bottom of the 11
+3 Outs
+1st Base: Runner
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 12
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Double
+===============================
+Top of the 12
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 12
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 12
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Bottom of the 12
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Bottom of the 12
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter hit, but got out
+===============================
+Bottom of the 12
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 13
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 13
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Double
+===============================
+Top of the 13
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 13
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter hit, but got out
+===============================
+Bottom of the 13
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Bottom of the 13
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Bottom of the 13
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 7
+Houston Astros: 7
+Event:
+Batter Out
+===============================
+Top of the 14
+0 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+Atlanta Braves: 8
+Houston Astros: 7
+Event:
+Home Run!
