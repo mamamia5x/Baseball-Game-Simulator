@@ -1,0 +1,28 @@
+{
+  "team1": {
+    "names": {
+      "city": "Atlanta",
+      "name": "Braves"
+    },
+    "ratings": {
+      "batting": 9.15,
+      "power": 12.36206897,
+      "pitching": 10.344,
+      "defense": 13,
+      "speed": 11.52857143
+    }
+  },
+  "team2": {
+    "names": {
+      "city": "Houston",
+      "name": "Astros"
+    },
+    "ratings": {
+      "batting": 10.0125,
+      "power": 11.43103448,
+      "pitching": 10.488,
+      "defense": 13.5,
+      "speed": 12.81428571
+    }
+  }
+}

@@ -1,0 +1,156 @@
+// Max call size either 12565 or 11422 (probably 12565)
+// https://2ality.com/2014/04/call-stack-size.html
+var fs = require('fs');
+var json = fs.readFileSync('teamdata.json') + '';
+json = JSON.parse(json);
+console.log(json)
+var inning = 1;
+var t1score = 0;
+var t2score = 0;
+var outs = 0;
+var chance = 0;
+var bases = [0,0,0];
+var pbp = [];
+sim();
+var result = "";
+for (var i in pbp){
+  result += pbp[i];
+}
+fs.writeFileSync("output.txt", result);
+function sim(){
+  chance ++; // increase chance (how many times this batter simulated)
+  if (chance == 2) {chance = 0; outs ++; add("Batter Out")}; // if tried 2 times, they are out
+  if (outs==3) {inning += .5;outs = 0; bases=[0,0,0]; add("Change Sides")} // if 3 outs, switch, empty bases
+  if (inning > 9.5){
+    console.log("Team1: " + t1score + "\nTeam2: " + t2score);
+    return "over";
+  }
+  var top = Math.floor(inning)==inning; // true if top of inning false if bottom
+  var team = top ? "team1" : "team2"; // team batting
+  var pitch = top ? "team2" : "team1"; // team pitching
+  var batScore = num(1,55) + json[team].ratings.batting; // calculate bat score
+  var pitchScore = num(1,55) + Math.round(1.5*json[pitch].ratings.pitching); // calculate pitch score
+  if (batScore > pitchScore){
+    hit(); // it's a hit
+  }
+  else if (batScore < pitchScore){
+    outs++;
+    add("Batter Out");
+    //not hit
+  }
+  else {
+    // if equal, tie goes to home team
+    if (top) {outs++;add("Batter Out");} // if home team fielding, out
+    else hit(); // if batting, hit
+  }
+  sim();
+
+  function hit(){
+    chance = 0; //reset chances to 0
+    var defScore = num(1,55) + Math.round(1.5*json[pitch].ratings.defense); // calculate defense score
+    if (defScore < batScore){ // defense less than batter
+      base(); // hit, calculate base running
+    }
+    else if (defScore > batScore){ //if defense is greater than batterscore
+      outs ++; // batter is out
+      add("Batter hit, but got out");
+    }
+    else{ // tie goes to home team
+      if (top) {outs++;add("Batter hit, but got out");} // if home fielding, out
+      else base(); // if batting, calculate base running
+    }
+
+    function base(){
+      var powScore = num(1,55) + json[team].ratings.power; // get power score
+      if (powScore >= 60){ //if over 60, home run
+        var scored = 1 + bases.slice(3).filter(x=>x==1).length; // get runners scored, adding 1 because of batter
+        bases = [0,0,0]; // reset bases
+        if (team == "team1"){ // if team1 is batting
+            t1score += scored; //set team1 score
+        }
+        else { // if team2 batting
+          t2score += scored; // set team2 score
+        }
+        add("Home Run!")
+      }
+      else {
+        var speedScore = num(1,55) + json[team].ratings.speed; // get speed score
+        var baseScore = speedScore - defScore; // get base score, calculates what hit they got (single, doub, trip)
+        var type = "";
+        if (baseScore < 0){ // if baseScore less than 0
+          bases.unshift(1);
+          type = "Single";
+        }
+        else if (47 >= baseScore && 0 <= baseScore){ // between 0-47
+          bases.unshift(0,1);
+          type = "Double";
+        }
+        else if (47 < baseScore) { // greater than 47
+          bases.unshift(0,0,1);
+          type = "Triple";
+        }
+        var extra = bases.slice(3);
+        extra = extra.filter(x=>x==1).length; // gets points scored
+        bases.slice(0,3); //Set normal bases
+        if (team == "team1"){ // if team1 is batting
+          t1score += extra; //set team1 score
+        }
+        else { // if team2 batting
+          t2score += extra; // set team2 score
+        }
+        add(type);
+      }
+    }
+  }
+
+  function add(event){
+    var foo = 'bar';
+    var s = "";
+    if (Math.floor(inning)==inning) foo = "Top";
+    else foo = "Bottom";
+    var name1 = json.team1.names.city + " " + json.team1.names.name;
+    var name2 = json.team2.names.city + " " + json.team2.names.name;
+    if (outs != 1) s = "s";
+    var b1 = bases[0] == 0 ? "Empty" : "Runner";
+    var b2 = bases[1] == 0 ? "Empty" : "Runner";
+    var b3 = bases[2] == 0 ? "Empty" : "Runner";
+    pbp.push("===============================\n" + foo + " of the " + Math.floor(inning) + "\n" + outs + " Out" + s + "\n1st Base: " + b1 + "\n2nd Base: " + b2 + "\n3rd Base: " + b3 + "\n" + name1 + ": " + t1score + "\n" + name2 + ": " + t2score + "\nEvent:\n" + event + "\n");
+  }
+}
+
+function num(l,h){
+  return Math.floor(Math.random() * (h - l + 1)) + l;
+}
+// Planning: 
+// Home Team is Team2
+// Start with simulating inning
+// Ratings go up to 20
+// Go batter by batter
+// Pick random number between 1 and 55
+// add batting rating to it
+// this number is batscore
+// pick another ran num (1-55)
+// add other team pitching rating to it
+// this is pitching score
+// if pitching score is over batting score
+// batting team gets 2nd chance (2 chances only)
+// repeat process above if not hit
+// if hit, pick ran num (1-55) and add to pitching team defense
+// note: calculation ties go to home team (team 2)
+// if denfense score is greater than batter score, batter is out
+// if not out, then pick ran num (1-55) and add it to power rating
+// if power score is greater than equal to 60, home run
+// else, pick ran num (1-55) and add it to speed rating
+// subtract speed score by defense score, call it base score
+// if base score is less than 0, signle
+// if base score is between 0-47, double
+// anything higher is triple
+// bases, add new base number to front of array
+// example double with runner on third
+// adds [0,1] to [0,0,1] to make [0,1,0,0,1]
+// then take anything after third base and calculate all the 1's in there
+// that numbe is added to the score
+// then set the bases to normal
+// example [0,1,0,0,1] has after third base of [0,1]
+// and normal [0,1,0]
+// extra [0,1] is converted to [1] and then the length of the array of 1's is added to score
