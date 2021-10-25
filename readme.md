@@ -1,4 +1,4 @@
-# Baseball Game Simulator
+# [Baseball Game Simulator](https://github.com/mamamia5x/Baseball-Game-Simulator)
 A baseball game simulator, written in JS.  
 
 To play a game, you first need to have `teamdata`. `teamdata` is the ratings for the two baseball teams. The teams are ranked in 5 categories, those being batting, power, pitching, defense and speed. Each category is ranked on a scale of 1-15 (decimals allowed).
