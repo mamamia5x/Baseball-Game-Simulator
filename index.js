@@ -18,6 +18,7 @@ var inning = 1;
 var t1score = 0;
 var t2score = 0;
 var outs = 0;
+var move = 0;
 var bases = [0,0,0];
 var pbp = [];
 var top = true;
@@ -36,14 +37,16 @@ while (!gamedone){
   batScore = null;
   pitchScore = null;
   defScore = null;
+  move ++;
   if (outs >= 3){
     inning += .5;
+    move = 0;
     outs = 0;
     bases = [0,0,0];
   }
   top = Math.floor(inning) == inning;
   if (inning > 9){
-    if (top && (t1score > t2score) && (outs == 0)){
+    if (top && (t1score > t2score) && (outs == 0) && move == 0){
       gamedone = true;
       break;
     }
