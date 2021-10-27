@@ -3,7 +3,6 @@ var file = fs.readFileSync("teamdata.csv") + "";
 var data = file.split("\n");
 var json = {};
 data = data.map(x=>x.split(','));
-console.log(data);
 if (data[0].includes('Options')){
   json.options = {};
   if (data[0].includes('Innings')){
@@ -29,3 +28,4 @@ for (var i = 1; i < data.length; i++){
 }
 
 fs.writeFileSync("teamdata.json", JSON.stringify(json,null,2));
+console.log("CSV Converted!")
