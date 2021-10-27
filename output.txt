@@ -1,531 +1,651 @@
 ===============================
 Top of the 1
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Top of the 1
 1 Out
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 0
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
 Event:
 Batter Out
 ===============================
 Top of the 1
 2 Outs
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 0
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
 Event:
-Batter Out
+Batter hit, but got out
 ===============================
 Top of the 1
 3 Outs
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 0
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
 Event:
 Batter Out
 ===============================
 Bottom of the 1
-1 Out
-1st Base: Empty
+0 Outs
+1st Base: Runner
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 0
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Bottom of the 1
+1 Out
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
 Event:
 Batter Out
 ===============================
 Bottom of the 1
+2 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 1
+2 Outs
+1st Base: Runner
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Bottom of the 1
+3 Outs
+1st Base: Runner
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 2
+0 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Top of the 2
+1 Out
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 2
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Top of the 2
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+St. Louis Cardinals: 0
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 2
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Top of the 2
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 2
 1 Out
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Batter hit, but got out
+===============================
+Bottom of the 2
+1 Out
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Bottom of the 2
+2 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 2
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Bottom of the 2
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 3
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 2
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Top of the 3
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 3
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Top of the 3
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 4
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Top of the 3
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 4
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 3
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 4
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 3
+2 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Runner
+St. Louis Cardinals: 4
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Top of the 3
+2 Outs
+1st Base: Runner
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Top of the 3
+3 Outs
+1st Base: Runner
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 3
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter hit, but got out
+===============================
+Bottom of the 3
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Bottom of the 3
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 3
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 4
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 4
+1 Out
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Top of the 4
+2 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 4
+3 Outs
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 4
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 4
+1 Out
+1st Base: Runner
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Single
+===============================
+Bottom of the 4
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Bottom of the 4
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 4
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Runner
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 5
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter hit, but got out
+===============================
+Top of the 5
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Top of the 5
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Batter Out
+===============================
+Bottom of the 5
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 0
+Event:
+Double
+===============================
+Bottom of the 5
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Double
+===============================
+Bottom of the 5
+1 Out
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Batter Out
+===============================
+Bottom of the 5
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Batter Out
+===============================
+Bottom of the 5
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Batter Out
+===============================
+Top of the 6
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Batter Out
+===============================
+Top of the 6
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Batter Out
+===============================
+Top of the 6
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Double
+===============================
+Top of the 6
+3 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 1
+Event:
+Batter Out
+===============================
+Bottom of the 6
+0 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Home Run!
 ===============================
-Bottom of the 1
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Double
-===============================
-Bottom of the 1
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 1
-3 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 2
-0 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Double
-===============================
-Top of the 2
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter hit, but got out
-===============================
-Top of the 2
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 2
-3 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 2
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 2
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 2
-2 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Single
-===============================
-Bottom of the 2
-3 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 3
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 3
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Double
-===============================
-Top of the 3
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 3
-3 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter hit, but got out
-===============================
-Bottom of the 3
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 3
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 3
-3 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 4
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 4
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 4
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Double
-===============================
-Top of the 4
-3 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 4
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 4
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter hit, but got out
-===============================
-Bottom of the 4
-3 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 5
-0 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Double
-===============================
-Top of the 5
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 5
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 0
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 5
-2 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Double
-===============================
-Top of the 5
-3 Outs
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Batter hit, but got out
-===============================
-Bottom of the 5
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 5
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Bottom of the 5
-3 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Batter hit, but got out
-===============================
-Top of the 6
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 6
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Batter Out
-===============================
-Top of the 6
-3 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
-Event:
-Batter Out
-===============================
 Bottom of the 6
 1 Out
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 1
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
-Batter Out
-===============================
-Bottom of the 6
-1 Out
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
-Event:
-Home Run!
+Batter hit, but got out
 ===============================
 Bottom of the 6
 2 Outs
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
 Bottom of the 6
-2 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
-Event:
-Single
-===============================
-Bottom of the 6
 3 Outs
-1st Base: Runner
+1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
-Batter hit, but got out
-===============================
-Top of the 7
-0 Outs
-1st Base: Runner
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
-Event:
-Single
+Batter Out
 ===============================
 Top of the 7
 1 Out
-1st Base: Runner
+1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
-Batter hit, but got out
+Batter Out
 ===============================
 Top of the 7
 2 Outs
-1st Base: Runner
+1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
-Batter hit, but got out
+Batter Out
+===============================
+Top of the 7
+2 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
+Event:
+Double
 ===============================
 Top of the 7
 3 Outs
-1st Base: Runner
-2nd Base: Empty
+1st Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
 Bottom of the 7
+0 Outs
+1st Base: Empty
+2nd Base: Runner
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
+Event:
+Double
+===============================
+Bottom of the 7
 1 Out
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
 Bottom of the 7
 2 Outs
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter hit, but got out
 ===============================
 Bottom of the 7
 3 Outs
 1st Base: Empty
-2nd Base: Empty
+2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
@@ -534,68 +654,68 @@ Top of the 8
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
+Event:
+Batter Out
+===============================
+Top of the 8
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter hit, but got out
 ===============================
 Top of the 8
-2 Outs
-1st Base: Empty
-2nd Base: Empty
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
-Event:
-Batter Out
-===============================
-Top of the 8
 3 Outs
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
 Bottom of the 8
-0 Outs
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
+Event:
+Batter Out
+===============================
+Bottom of the 8
+1 Out
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Double
 ===============================
 Bottom of the 8
-1 Out
-1st Base: Empty
-2nd Base: Runner
-3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
-Event:
-Batter Out
-===============================
-Bottom of the 8
 2 Outs
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
-Batter Out
+Batter hit, but got out
 ===============================
 Bottom of the 8
 3 Outs
 1st Base: Empty
 2nd Base: Runner
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
@@ -604,8 +724,8 @@ Top of the 9
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
@@ -614,8 +734,8 @@ Top of the 9
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
 ===============================
@@ -624,7 +744,37 @@ Top of the 9
 1st Base: Empty
 2nd Base: Empty
 3rd Base: Empty
-Atlanta Braves: 1
-Houston Astros: 2
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
+Event:
+Batter hit, but got out
+===============================
+Bottom of the 9
+1 Out
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
+Event:
+Batter Out
+===============================
+Bottom of the 9
+2 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
+Event:
+Batter Out
+===============================
+Bottom of the 9
+3 Outs
+1st Base: Empty
+2nd Base: Empty
+3rd Base: Empty
+St. Louis Cardinals: 5
+Milwaukee Brewers: 2
 Event:
 Batter Out
