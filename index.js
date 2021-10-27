@@ -3,16 +3,30 @@ var fs = require('fs');
 var json = fs.readFileSync('teamdata.json') + '';
 json = JSON.parse(json);
 console.log(json);
-var team1Batting = json.team1.ratings.batting;
-var team2Batting = json.team2.ratings.batting;
-var team1Pitching = json.team1.ratings.pitching;
-var team2Pitching = json.team2.ratings.pitching;
-var team1Defense = json.team1.ratings.defense;
-var team2Defense = json.team2.ratings.defense;
-var team1Power = json.team1.ratings.power;
-var team2Power = json.team2.ratings.power;
-var team1Speed = json.team1.ratings.speed;
-var team2Speed = json.team2.ratings.speed;
+var numOfInnings = 9;
+var team1 = "team1";
+var team2 = "team2";
+if (json.hasOwnProperty('options')){
+  if (json.options.hasOwnProperty('innings')){
+    numOfInnings = json.options.innings;
+  }
+  if (json.options.hasOwnProperty('away')){
+    team1 = json.options.away;
+  }
+  if (json.options.hasOwnProperty('home')){
+    team2 = json.options.home;
+  }
+}
+var team1Batting = json[team1].ratings.batting;
+var team2Batting = json[team2].ratings.batting;
+var team1Pitching = json[team1].ratings.pitching;
+var team2Pitching = json[team2].ratings.pitching;
+var team1Defense = json[team1].ratings.defense;
+var team2Defense = json[team2].ratings.defense;
+var team1Power = json[team1].ratings.power;
+var team2Power = json[team2].ratings.power;
+var team1Speed = json[team1].ratings.speed;
+var team2Speed = json[team2].ratings.speed;
 var gamedone = false;
 var inning = 1;
 var t1score = 0;
@@ -45,7 +59,7 @@ while (!gamedone){
     bases = [0,0,0];
   }
   top = Math.floor(inning) == inning;
-  if (inning > 9){
+  if (inning > numOfInnings){
     if (top && (t1score > t2score) && (outs == 0) && move == 0){
       gamedone = true;
       break;
@@ -155,8 +169,8 @@ function add(event){
   var s = "";
   if (Math.floor(inning)==inning) foo = "Top";
   else foo = "Bottom";
-  var name1 = json.team1.names.city + " " + json.team1.names.name;
-  var name2 = json.team2.names.city + " " + json.team2.names.name;
+  var name1 = json[team1].names.city + " " + json[team1].names.name;
+  var name2 = json[team2].names.city + " " + json[team2].names.name;
   if (outs != 1) s = "s";
   var b1 = bases[0] == 0 ? "Empty" : "Runner";
   var b2 = bases[1] == 0 ? "Empty" : "Runner";

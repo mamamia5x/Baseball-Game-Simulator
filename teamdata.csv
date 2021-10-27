@@ -1,3 +1,11 @@
-Teams,City,Name,Batting,Power,Pitching,Defense,Speed
-Team 1,Test,Name,11,8,2,7,10
-Team 2,Foo,Bar,10,5,5,10,7
+Teams,City,Name,Batting,Power,Pitching,Defense,Speed,,Options,Innings,Home,Away
+Team 1,Chicago,White Sox,9.675,9.827586207,10.524,9.666666667,11.78571429,,,9,Team 7,Team 10
+Team 2,Houston,Astros,10.0125,11.43103448,10.488,13.5,12.81428571,,,,,
+Team 3,Boston,Red Sox,9.7875,11.32758621,9.888,7.166666667,14.14285714,,,,,
+Team 4,Atlanta,Braves,9.15,12.36206897,10.344,13,11.52857143,,,,,
+Team 5,Los Angeles,Dodgers,9.15,12.25862069,11.388,10.33333333,10.58571429,,,,,
+Team 6,Tampa Bay,Rays,9.075,11.48275862,10.596,11.66666667,12.34285714,,,,,
+Team 7,Milwaukee,Brewers,8.7375,10.03448276,10.8,9.833333333,10.92857143,,,,,
+Team 8,New York,Yankees,8.8875,11.48275862,10.512,8.666666667,9.128571429,,,,,
+Team 9,San Francisco,Giants,9.3375,12.46551724,11.112,11.66666667,11.61428571,,,,,
+Team 10,St. Louis,Cardinals,9.15,10.24137931,10.224,11,11.18571429,,,,,

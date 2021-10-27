@@ -1,7 +1,9 @@
 # [Baseball Game Simulator](https://github.com/mamamia5x/Baseball-Game-Simulator)
 A baseball game simulator, written in JS.  
 
-To play a game, you first need to have `teamdata`. `teamdata` is the ratings for the two baseball teams. The teams are ranked in 5 categories, those being batting, power, pitching, defense and speed. Each category is ranked on a scale of 1-15 (decimals allowed).
+In order to simulate a game, you'll need to upload a CSV file that stores team data. The file `template.xlsx` is a spreadsheet template that has everything that you'll need to play games. You only need two teams, and options aren't needed. 
+
+The template already has the 2021 MLB Playoffs team ratings, which you can change. You can add more teams, or take away teams. The categories batting, power, pitching, defense, and speed all are on a scale of 1-15. You can customize options, like number of innings played (if left blank, it is automatically set to 9) and you can set the home and away teams. If they are left blank, Team 2 is automatically set as the home team, and Team 1 is the away team. Once you are finished you can export the spreadsheet as a CSV and upload it here, naming the file `teamdata.csv`.
 
 Teamdata can be set two ways, by editing the file `teamdata.json`, or by uploading a csv file, naming it `teamdata.csv` and then running the command `npm run convert` or `node converter.js`. This'll convert the csv file into a json file, allowing the script to read the team data.
 

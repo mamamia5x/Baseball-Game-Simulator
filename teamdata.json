@@ -1,15 +1,20 @@
 {
+  "options": {
+    "innings": 9,
+    "home": "team7",
+    "away": "team10"
+  },
   "team1": {
     "names": {
-      "city": "Atlanta",
-      "name": "Braves"
+      "city": "Chicago",
+      "name": "White Sox"
     },
     "ratings": {
-      "batting": 9.15,
-      "power": 12.36206897,
-      "pitching": 10.344,
-      "defense": 13,
-      "speed": 11.52857143
+      "batting": 9.675,
+      "power": 9.827586207,
+      "pitching": 10.524,
+      "defense": 9.666666667,
+      "speed": 11.78571429
     }
   },
   "team2": {
@@ -23,6 +28,110 @@
       "pitching": 10.488,
       "defense": 13.5,
       "speed": 12.81428571
+    }
+  },
+  "team3": {
+    "names": {
+      "city": "Boston",
+      "name": "Red Sox"
+    },
+    "ratings": {
+      "batting": 9.7875,
+      "power": 11.32758621,
+      "pitching": 9.888,
+      "defense": 7.166666667,
+      "speed": 14.14285714
+    }
+  },
+  "team4": {
+    "names": {
+      "city": "Atlanta",
+      "name": "Braves"
+    },
+    "ratings": {
+      "batting": 9.15,
+      "power": 12.36206897,
+      "pitching": 10.344,
+      "defense": 13,
+      "speed": 11.52857143
+    }
+  },
+  "team5": {
+    "names": {
+      "city": "Los Angeles",
+      "name": "Dodgers"
+    },
+    "ratings": {
+      "batting": 9.15,
+      "power": 12.25862069,
+      "pitching": 11.388,
+      "defense": 10.33333333,
+      "speed": 10.58571429
+    }
+  },
+  "team6": {
+    "names": {
+      "city": "Tampa Bay",
+      "name": "Rays"
+    },
+    "ratings": {
+      "batting": 9.075,
+      "power": 11.48275862,
+      "pitching": 10.596,
+      "defense": 11.66666667,
+      "speed": 12.34285714
+    }
+  },
+  "team7": {
+    "names": {
+      "city": "Milwaukee",
+      "name": "Brewers"
+    },
+    "ratings": {
+      "batting": 8.7375,
+      "power": 10.03448276,
+      "pitching": 10.8,
+      "defense": 9.833333333,
+      "speed": 10.92857143
+    }
+  },
+  "team8": {
+    "names": {
+      "city": "New York",
+      "name": "Yankees"
+    },
+    "ratings": {
+      "batting": 8.8875,
+      "power": 11.48275862,
+      "pitching": 10.512,
+      "defense": 8.666666667,
+      "speed": 9.128571429
+    }
+  },
+  "team9": {
+    "names": {
+      "city": "San Francisco",
+      "name": "Giants"
+    },
+    "ratings": {
+      "batting": 9.3375,
+      "power": 12.46551724,
+      "pitching": 11.112,
+      "defense": 11.66666667,
+      "speed": 11.61428571
+    }
+  },
+  "team10": {
+    "names": {
+      "city": "St. Louis",
+      "name": "Cardinals"
+    },
+    "ratings": {
+      "batting": 9.15,
+      "power": 10.24137931,
+      "pitching": 10.224,
+      "defense": 11,
+      "speed": 11.18571429
     }
   }
 }
